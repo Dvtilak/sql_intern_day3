@@ -2,10 +2,15 @@
 
 ## Objective
 
-- Extract specific data from one or more tables
-- Use filters and conditions to get results
-- Apply sorting and row limiting for better control and performance
+- Retrieve data from the E-commerce database
+- Use filtering and sorting to extract specific records
+- Apply different query conditions to simulate real-world data analysis
 
-- Mastery over basic and advanced filtering with 'LIKE', 'BETWEEN', 'AND', 'OR'
-
-- Practical use of 'sorting' and 'limiting' results
+## Key concepts 
+- Apply different query conditions to simulate real-world data analysis
+- Extract specific data from one or more tables using `select`
+### usage 
+- Use `filtering` and `sorting` to extract specific records
+- Apply `sorting` and `row limiting` for better control and performance
+- Mastery over basic and advanced filtering with `LIKE`, `BETWEEN`, `ANd`, `OR`
+- Practical use of `sorting` and `limiting` results
